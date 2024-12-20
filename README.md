@@ -1,4 +1,4 @@
-# RicoBd
+# Rico
 profile description
 
 
@@ -18,5 +18,5 @@ profile description
 <br>
 <br>
 <br>
-<p align="center" style="max-width: 50rem; font-style: italic;">check out my website 👉 <a href="https://www.sanderhd.me" target="_blank">sanderhd.me</a></p>
+<p align="center" style="max-width: 50rem; font-style: italic;">check out my portfolio <a href="https://portofolio-rico-borgdorff-fcro9ghmi-ricoplayzgames-projects.vercel.app" target="_blank">Portfolio</a></p>
 </div>
