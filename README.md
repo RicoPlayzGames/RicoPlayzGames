@@ -12,7 +12,7 @@ profile description
 
 <p>
     <a href="https://portofolio-rico-borgdorff-fcro9ghmi-ricoplayzgames-projects.vercel.app" target="_blank">
-        <img alt="Skills" src="https://skillicons.dev/icons?i=html,css,js,p5js,php,md,figma,github,vscode,git,ai,vercel,linkedin&perline=11">
+        <img alt="Skills" src="https://skillicons.dev/icons?i=html,css,js,p5js,php,md,figma,github,vscode,git,ai,vercel,threejs,linkedin&perline=11">
     </a>
 </p>
 <br>
